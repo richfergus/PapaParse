@@ -27,6 +27,12 @@
 
 var peopleLovePapa = [
 	{
+		link: "https://avnstatus.com",
+		name: "Aviation Status",
+		description: "We use papa parse to load thousands of records to a database and update individual records from dissimilar databases.",
+		quote: "I wish all libraries were this easy to, use, implement and understand.."
+	},
+	{
 		link: "https://smartystreets.com",
 		name: "SmartyStreets",
 		description: "verifies addresses, many of which are submitted in CSV files. Papa Parse can process files with over a million addresses in the browser.",
